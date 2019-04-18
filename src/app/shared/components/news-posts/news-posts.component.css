@@ -1,0 +1,21 @@
+.wrapper{
+    display: grid;
+}
+
+.wrapper > div{
+box-shadow: 5px 5px 5px 5px #e6e6e6;
+padding: 50px;
+margin: 15px;
+height: 150px;
+}
+h4{
+font-family: 'BebasNeueRegular'; 
+font-weight: 100; 
+font-size: 30px; 
+color: #0f75bc;
+margin-bottom: 3px;
+}
+hr{
+height: 1px;
+background-color: #0f75bc;
+}

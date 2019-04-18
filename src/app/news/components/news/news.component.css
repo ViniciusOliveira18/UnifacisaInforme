@@ -1,0 +1,14 @@
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'BebasNeueRegular';
+    font-weight: 300;
+    font-size: 100px;
+    color: #0f75bc;
+}
+
+.container{
+    display: flex;
+    text-align: center;
+    padding-top: 5px;
+}

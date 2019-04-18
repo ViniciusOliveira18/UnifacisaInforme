@@ -1,0 +1,46 @@
+nav { 
+    font-family: 'BebasNeueRegular'; 
+    font-weight: 500; 
+    font-size: 130%; 
+ }
+ nav ul {
+    list-style: none;
+    padding : 0%;
+    display : flex;
+    flex-direction: row ;
+    align-items: center;
+    width: 100%
+} 
+    
+ nav ul li{
+     text-align: center;
+    width: 100%; }
+ nav ul li a{
+    display: inline-block;
+    padding: 10% 0;
+    text-decoration: none;
+    color: #0f75bc;
+    } 
+nav img{
+    width: 150px;}
+    .wrapper{
+        display: grid;
+    }
+    
+    .wrapper > div{
+    box-shadow: 5px 5px 5px 5px #e6e6e6;
+    padding: 50px;
+    margin: 15px;
+    height: 150px;
+    }
+    h4{
+    font-family: 'BebasNeueRegular'; 
+    font-weight: 100; 
+    font-size: 30px; 
+    color: #0f75bc;
+    margin-bottom: 3px;
+    }
+    hr{
+    height: 1px;
+    background-color: #0f75bc;
+    }
